@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\ManagingFilesDemo\bin\Debug\netcoreapp2.2\ManagingFilesDemo.deps.json
+C:\Users\Jason\source\repos\ManagingFilesDemo\bin\Debug\netcoreapp2.2\ManagingFilesDemo.runtimeconfig.json
+C:\Users\Jason\source\repos\ManagingFilesDemo\bin\Debug\netcoreapp2.2\ManagingFilesDemo.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\ManagingFilesDemo\bin\Debug\netcoreapp2.2\ManagingFilesDemo.dll
+C:\Users\Jason\source\repos\ManagingFilesDemo\bin\Debug\netcoreapp2.2\ManagingFilesDemo.pdb
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.AssemblyInfo.cs
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.dll
+C:\Users\Jason\source\repos\ManagingFilesDemo\obj\Debug\netcoreapp2.2\ManagingFilesDemo.pdb
